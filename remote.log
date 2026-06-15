@@ -1,0 +1,1 @@
+12006287-16e9-4f25-ad59-9d25767460cb autoenable=true bucket=cneuromod.anat.mriqc chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.anat.mriqc port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1781544071s
